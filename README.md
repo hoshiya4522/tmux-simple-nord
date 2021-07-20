@@ -25,7 +25,7 @@ set -g @plugin 'tmux-plugins/tmux-prefix-highlight'
 set -g @plugin 'hoshiya4522/tmux-simple-nord'
 ```
 
-## Checkout The OG Nord Theme fot TMUX
+## Checkout The OG Nord Theme for TMUX
 
 [arcticicestudio/nord-tmux](https://github.com/arcticicestudio/nord-tmux)
 
