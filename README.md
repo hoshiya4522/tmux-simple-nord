@@ -1,18 +1,18 @@
 # tmux-simple-nord
 
+![How tmux-onedark looks](https://raw.githubusercontent.com/hoshiya4522/tmux-simple-nord/master/.assets/preview.jpeg)
+
 Nord theme for TMUX (Simplified)!
 
-- [How it looks](#how-it-looks)
 - [Requirements](#requirements)
 - [Installation](#installation)
 
-## How it looks
-
-![How tmux-onedark looks](https://raw.githubusercontent.com/hoshiya4522/tmux-simple-nord/master/.assets/preview.jpeg)
 
 ## Requirements
 
+* [Any nerdfont for the arrows](https://www.nerdfonts.com)
 * [tmux-plugins/tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight)
+* [Nord theme for your teminal emulator](https://www.nordtheme.com/ports)
 
 ## Installation
 
