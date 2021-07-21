@@ -1,8 +1,10 @@
 # tmux-simple-nord
 
-![How tmux-onedark looks](https://raw.githubusercontent.com/hoshiya4522/tmux-simple-nord/master/.assets/preview.jpeg)
-
 Nord theme for TMUX (Simplified)!
+
+![How it looks](https://raw.githubusercontent.com/hoshiya4522/tmux-simple-nord/master/.assets/preview.jpeg)
+
+## Contents
 
 - [Requirements](#requirements)
 - [Installation](#installation)
