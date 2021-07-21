@@ -6,11 +6,9 @@ Nord theme for TMUX (Simplified)!
 - [Requirements](#requirements)
 - [Installation](#installation)
 
-<!--
 ## How it looks
 
-![How tmux-onedark looks]()
-		-->	
+![How tmux-onedark looks](https://raw.githubusercontent.com/hoshiya4522/tmux-simple-nord/master/.assets/preview.jpeg)
 
 ## Requirements
 
