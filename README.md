@@ -14,7 +14,7 @@ Nord theme for TMUX (Simplified)!
 
 * [Any nerdfont for the arrows](https://www.nerdfonts.com)
 * [tmux-plugins/tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight)
-* [Nord theme for your teminal emulator](https://www.nordtheme.com/ports)
+* [Nord theme for your teminal emulator (Optional)](https://www.nordtheme.com/ports)
 
 ## Installation
 
