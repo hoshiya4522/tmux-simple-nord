@@ -2,7 +2,7 @@
 
 Nord theme for TMUX (Simplified)!
 
-![How it looks](https://raw.githubusercontent.com/hoshiya4522/tmux-simple-nord/master/.assets/preview.jpeg)
+![How it looks](https://raw.githubusercontent.com/hoshiya4522/tmux-simple-nord/master/.assets/preview.jpg)
 
 ## Contents
 
