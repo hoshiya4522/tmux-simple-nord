@@ -8,6 +8,7 @@ Nord theme for TMUX (Simplified)!
 
 - [Requirements](#requirements)
 - [Installation](#installation)
+- [Inspirations](#Inspirations)
 
 
 ## Requirements
@@ -34,5 +35,5 @@ That's it! Enjoy!
 
 ## Inspirations
 
-[Original Nord theme from Arctic Ice Studio](https://github.com/arcticicestudio/nord-tmux)
-[Minimal OneDark theme by sei40kr for tmux](https://github.com/sei40kr/tmux-onedark)
+* [Original Nord theme from Arctic Ice Studio](https://github.com/arcticicestudio/nord-tmux)
+* [Minimal OneDark theme by sei40kr for tmux](https://github.com/sei40kr/tmux-onedark)
