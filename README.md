@@ -32,6 +32,7 @@ set -g @plugin 'hoshiya4522/tmux-simple-nord'
 ```
 That's it! Enjoy!
 
-## Checkout The OG Nord Theme for TMUX
+## Inspirations
 
-[arcticicestudio/nord-tmux](https://github.com/arcticicestudio/nord-tmux)
+[Original Nord theme from Arctic Ice Studio](https://github.com/arcticicestudio/nord-tmux)
+[Minimal OneDark theme by sei40kr for tmux](https://github.com/sei40kr/tmux-onedark)
